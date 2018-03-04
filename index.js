@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.P2P = require('./lib');
+var berycore = require('berycore-lib');
+berycore.P2P = require('./lib');
 
-module.exports = litecore.P2P;
+module.exports = berycore.P2P;
