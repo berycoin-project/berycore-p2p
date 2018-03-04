@@ -3216,8 +3216,8 @@ liftoff@^2.1.0:
     resolve "^1.1.7"
 
 "berycore-build@git://github.com/berycoin-project/berycore-build.git":
-  version "0.5.5"
-  resolved "git://github.com/berycoin-project/berycore-build.git#9d1d5a9a2530d9675df47c9af6a2e80cb422b823"
+  version "0.9.1"
+  resolved "git://github.com/berycoin-project/berycore-build.git#8b51747e8df591c270965f823ea8751b795aded3"
   dependencies:
     brfs "^1.2.0"
     browserify "~13.1.0"
@@ -3244,9 +3244,9 @@ liftoff@^2.1.0:
     run-sequence "^1.0.2"
     zuul "1.16.3"
 
-berycore-lib@^0.13.19:
-  version "0.13.21"
-  resolved "https://registry.yarnpkg.com/berycore-lib/-/berycore-lib-0.13.21.tgz#a56bfca333b641c9cffb3d3e266de83132ab0697"
+berycore-lib@^0.15.38:
+  version "0.15.38"
+  resolved "https://registry.yarnpkg.com/berycore-lib/-/berycore-lib-0.15.38.tgz#4253d612be3105f8613180f6b1d4102af6a1e36d"
   dependencies:
     bn.js "=2.0.4"
     bs58 "=2.0.0"
